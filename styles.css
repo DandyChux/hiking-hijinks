@@ -1,0 +1,20 @@
+body {
+    color: black;
+    background-color: lightgrey;
+    font-family: 'Indie Leaf';
+}
+
+/* Center image with automatic right and left margins. Don't forget to make a it a block element as well */
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: cetner;
+    text-decoration: wavy;
+}
